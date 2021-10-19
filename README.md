@@ -1,1 +1,1 @@
-# HAREprojects
+# HAREproject
